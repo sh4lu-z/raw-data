@@ -1,0 +1,455 @@
+[
+
+
+{
+   "q":"What is the closest star to Earth?",
+   "o":[
+      "The Sun",
+      "Proxima Centauri",
+      "Sirius",
+      "Alpha Centauri"
+   ]
+},
+{
+   "q":"Who was the first person in space?",
+   "o":[
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Elon Musk"
+   ]
+},
+{
+   "q":"Which planet is known as the Red Planet?",
+   "o":[
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+   ]
+},
+{
+   "q":"What is the largest planet in our solar system?",
+   "o":[
+      "Jupiter",
+      "Saturn",
+      "Earth",
+      "Neptune"
+   ]
+},
+{
+   "q":"Which planet has the most extensive ring system?",
+   "o":[
+      "Saturn",
+      "Uranus",
+      "Jupiter",
+      "Neptune"
+   ]
+},
+{
+   "q":"What year did humans first land on the Moon?",
+   "o":[
+      "1969",
+      "1972",
+      "1965",
+      "1975"
+   ]
+},
+{
+   "q":"What is the name of NASA's most famous space telescope?",
+   "o":[
+      "Hubble",
+      "Webb",
+      "Kepler",
+      "Spitzer"
+   ]
+},
+{
+   "q":"Which planet is closest to the Sun?",
+   "o":[
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+   ]
+},
+{
+   "q":"What galaxy is Earth located in?",
+   "o":[
+      "Milky Way",
+      "Andromeda",
+      "Triangulum",
+      "Sombrero"
+   ]
+},
+{
+   "q":"What is the hottest planet in the solar system?",
+   "o":[
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+   ]
+},
+{
+   "q":"How many moons does Earth have?",
+   "o":[
+      "1",
+      "2",
+      "0",
+      "4"
+   ]
+},
+{
+   "q":"Which celestial body was reclassified as a dwarf planet in 2006?",
+   "o":[
+      "Pluto",
+      "Ceres",
+      "Eris",
+      "Makemake"
+   ]
+},
+{
+   "q":"What implies the 'Great Red Spot' on Jupiter?",
+   "o":[
+      "A Storm",
+      "A Volcano",
+      "A Lake",
+      "A Crater"
+   ]
+},
+{
+   "q":"Which agency is responsible for the US space program?",
+   "o":[
+      "NASA",
+      "SpaceX",
+      "ISRO",
+      "ESA"
+   ]
+},
+{
+   "q":"What is the name of the first artificial satellite?",
+   "o":[
+      "Sputnik 1",
+      "Explorer 1",
+      "Vostok 1",
+      "Apollo 11"
+   ]
+},
+{
+   "q":"Which planet rotates on its side?",
+   "o":[
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Mars"
+   ]
+},
+{
+   "q":"What is the Sun mainly composed of?",
+   "o":[
+      "Hydrogen",
+      "Oxygen",
+      "Carbon",
+      "Iron"
+   ]
+},
+{
+   "q":"Which planet is known as Earth's twin?",
+   "o":[
+      "Venus",
+      "Mars",
+      "Neptune",
+      "Uranus"
+   ]
+},
+{
+   "q":"Who was the first woman in space?",
+   "o":[
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Mae Jemison",
+      "Kalpana Chawla"
+   ]
+},
+{
+   "q":"What force keeps planets in orbit around the Sun?",
+   "o":[
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Inertia"
+   ]
+},
+{
+   "q":"What is the term for a rock from space that hits Earth's surface?",
+   "o":[
+      "Meteorite",
+      "Meteor",
+      "Asteroid",
+      "Comet"
+   ]
+},
+{
+   "q":"Which planet has a day longer than its year?",
+   "o":[
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+   ]
+},
+{
+   "q":"What is the name of the galaxy closest to the Milky Way?",
+   "o":[
+      "Andromeda",
+      "Triangulum",
+      "Whirlpool",
+      "Cartwheel"
+   ]
+},
+{
+   "q":"Which moon of Saturn has a thick atmosphere?",
+   "o":[
+      "Titan",
+      "Enceladus",
+      "Mimas",
+      "Rhea"
+   ]
+},
+{
+   "q":"What is the main engine of the Solar System?",
+   "o":[
+      "The Sun",
+      "Jupiter",
+      "Gravity",
+      "Dark Matter"
+   ]
+},
+{
+   "q":"How long does it take light from the Sun to reach Earth?",
+   "o":[
+      "8 minutes",
+      "1 second",
+      "1 hour",
+      "24 hours"
+   ]
+},
+{
+   "q":"What creates a black hole?",
+   "o":[
+      "Collapsing Star",
+      "Planet collision",
+      "Asteroid impact",
+      "Solar Flare"
+   ]
+},
+{
+   "q":"Which planet has the tallest volcano (Olympus Mons)?",
+   "o":[
+      "Mars",
+      "Earth",
+      "Venus",
+      "Mercury"
+   ]
+},
+{
+   "q":"What is the boundary around a black hole called?",
+   "o":[
+      "Event Horizon",
+      "Singularity",
+      "Accretion Disk",
+      "Photon Sphere"
+   ]
+},
+{
+   "q":"Which mission sent the first humans to the Moon?",
+   "o":[
+      "Apollo 11",
+      "Apollo 13",
+      "Gemini 4",
+      "Vostok 1"
+   ]
+},
+{
+   "q":"What is the largest moon in the solar system?",
+   "o":[
+      "Ganymede",
+      "Titan",
+      "Europa",
+      "Callisto"
+   ]
+},
+{
+   "q":"Which planet has the strongest winds?",
+   "o":[
+      "Neptune",
+      "Jupiter",
+      "Saturn",
+      "Uranus"
+   ]
+},
+{
+   "q":"What protects Earth from solar radiation?",
+   "o":[
+      "Magnetic Field",
+      "Ozone Layer",
+      "Clouds",
+      "Gravity"
+   ]
+},
+{
+   "q":"What color is a sunset on Mars?",
+   "o":[
+      "Blue",
+      "Red",
+      "Yellow",
+      "Green"
+   ]
+},
+{
+   "q":"Which space rover is currently exploring Mars?",
+   "o":[
+      "Perseverance",
+      "Spirit",
+      "Opportunity",
+      "Voyager"
+   ]
+},
+{
+   "q":"What is the closest planet to Earth (on average)?",
+   "o":[
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+   ]
+},
+{
+   "q":"What is the most common type of star in the universe?",
+   "o":[
+      "Red Dwarf",
+      "Yellow Dwarf",
+      "Blue Giant",
+      "Neutron Star"
+   ]
+},
+{
+   "q":"Who founded SpaceX?",
+   "o":[
+      "Elon Musk",
+      "Jeff Bezos",
+      "Richard Branson",
+      "Bill Gates"
+   ]
+},
+{
+   "q":"What was the first animal in space?",
+   "o":[
+      "Dog (Laika)",
+      "Monkey",
+      "Cat",
+      "Mouse"
+   ]
+},
+{
+   "q":"What is the path of a planet around the Sun called?",
+   "o":[
+      "Orbit",
+      "Rotation",
+      "Axis",
+      "Eclipse"
+   ]
+},
+{
+   "q":"Which planet has the Great Dark Spot?",
+   "o":[
+      "Neptune",
+      "Jupiter",
+      "Uranus",
+      "Saturn"
+   ]
+},
+{
+   "q":"What covers 70% of Earth's surface?",
+   "o":[
+      "Water",
+      "Land",
+      "Ice",
+      "Forest"
+   ]
+},
+{
+   "q":"What is the name of the first space station?",
+   "o":[
+      "Salyut 1",
+      "Skylab",
+      "ISS",
+      "Mir"
+   ]
+},
+{
+   "q":"Which planet is famous for its beautiful rings?",
+   "o":[
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+   ]
+},
+{
+   "q":"What is a light-year a measure of?",
+   "o":[
+      "Distance",
+      "Time",
+      "Speed",
+      "Brightness"
+   ]
+},
+{
+   "q":"What shape is the Milky Way galaxy?",
+   "o":[
+      "Spiral",
+      "Elliptical",
+      "Irregular",
+      "Round"
+   ]
+},
+{
+   "q":"Which planet has the most moons (as of 2024)?",
+   "o":[
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+   ]
+},
+{
+   "q":"What causes tides on Earth?",
+   "o":[
+      "Moon's Gravity",
+      "Sun's Gravity",
+      "Earth's Rotation",
+      "Wind"
+   ]
+},
+{
+   "q":"Where is the asteroid belt located?",
+   "o":[
+      "Between Mars & Jupiter",
+      "Beyond Neptune",
+      "Near Earth",
+      "Near Sun"
+   ]
+},
+{
+   "q":"What is the speed of light?",
+   "o":[
+      "300,000 km/s",
+      "150,000 km/s",
+      "1,000 km/s",
+      "Sound speed"
+   ]
+}
+
+]
